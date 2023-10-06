@@ -1,0 +1,4 @@
+/src/lex.yy.c
+/build/*
+/.vscode/*
+/test/*.result
